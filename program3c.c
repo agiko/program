@@ -16,6 +16,7 @@ int odejmij (int a, int b){
 int main(void)
 {
 	int a , b ;
+
 	char wybor ;
 	printf("Podaj wartosc argumentu a: "); scanf("%i", &a);
 	printf("Podaj wartosc argumentu b: "); scanf("%i", &b);
